@@ -1,4 +1,4 @@
-##  Pedro Henrique Alves Costa  /  Desenvolvedor Full Stack      /     Petrus Eni 
+##  Pedro Henrique Alves Costa  /  Desenvolvedor Full Stack      
  <div>
   <a href="https://github.com/Pedrohacc">
  
